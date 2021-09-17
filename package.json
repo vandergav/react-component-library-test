@@ -10,6 +10,15 @@
   "files": [
     "lib"
   ],
+  "author": "Gavin Soh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandergav/react-component-library-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vandergav/react-component-library-test/issues"
+  },
+  "homepage": "https://github.com/vandergav/react-component-library-test",
   "dependencies": {
     "styled-components": "^5.3.1"
   },
